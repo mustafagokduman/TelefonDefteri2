@@ -11,7 +11,7 @@ namespace TelefonDefteri2
         static void Main(string[] args)
         {
             // Yeni Telefon Defteri 
-
+            // Sync Et
         }
     }
 }
